@@ -12,6 +12,7 @@
 
 - 💻 Visit my website at [www.pratishshrivastava.me](https://pratishshrivastava.me)
 
+<br>
 <p>&nbsp;
 <img aline="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratishShrivastava&layout=compact"></img>
 
