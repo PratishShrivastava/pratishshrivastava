@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer & Open Source Contributor.</h3>
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=PratishShrivastava&show_icons=true&locale=en&theme=radical" alt="Pratish Shrivastava" /></p>
+<br>
 
 
 
@@ -13,10 +13,16 @@
 - 💻 Visit my website at [www.pratishshrivastava.me](https://pratishshrivastava.me)
 
 <br>
-<p>&nbsp;
+
+## 📈 Stats
+<p align="center">
+	<img align="left" src="https://github-readme-stats.vercel.app/api?username=PratishShrivastava&show_icons=true&locale=en&theme=radical" alt="Pratish Shrivastava" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PratishShrivastava&theme=highcontrast" />
+</p>
+
 <img aline="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratishShrivastava&layout=compact"></img>
 
-
+<br>
 <p align="">
   <p align="center">
   <b>GitHub Visitors</b>
