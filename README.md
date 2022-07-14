@@ -17,7 +17,7 @@
 ## 📈 Stats
 <p align="center">
 	<img align="left" src="https://github-readme-stats.vercel.app/api?username=PratishShrivastava&show_icons=true&locale=en&theme=radical" alt="Pratish Shrivastava" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PratishShrivastava&theme=highcontrast" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratishShrivastava&theme=highcontrast" />
 </p>
 
 <img aline="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratishShrivastava&layout=compact"></img>
