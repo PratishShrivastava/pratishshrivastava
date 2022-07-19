@@ -36,8 +36,8 @@
 </p>
 
 ***
-
-
+## CodeWars
+<img align="left" src="https://www.codewars.com/users/PratishShrivastava/badges/large" alt="Pratish Shrivastava" />
 
 
 
