@@ -3,7 +3,7 @@
 
 
 <br>
-
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img align="right" alt="Page counter" src="https://komarev.com/ghpvc/?username=PratishShrivastava&style=flat-square">
 
 
 - 🌱  Exploring in the world of  **Open Contribution**
@@ -12,13 +12,13 @@
 
 - 💻 Visit my website at [www.pratishshrivastava.me](https://pratishshrivastava.me)
 
+
+
 <br>
 
 ## 📈 Stats
-<p align="center">
-	<img align="left" src="https://github-readme-stats.vercel.app/api?username=PratishShrivastava&show_icons=true&locale=en&theme=radical" alt="Pratish Shrivastava" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratishShrivastava&theme=highcontrast" />
-</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PratishShrivastava&theme=highcontrast" alt="Pratish Shrivastava" />
 
 
 
@@ -43,5 +43,7 @@
 ## CodeWars
 <img align="left" src="https://www.codewars.com/users/PratishShrivastava/badges/large" alt="Pratish Shrivastava" />
 
-## End 😁 😁
+<br><br>
+
+##  End 😁 😁
 
