@@ -20,7 +20,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratishShrivastava&theme=highcontrast" />
 </p>
 
-<img aline="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratishShrivastava&layout=compact"></img>
+
 
 <br>
 <p align="">
@@ -31,9 +31,13 @@
   <img alt="Page counter" src="https://profile-counter.glitch.me/PratishShrivastava/count.svg">
 </p>
 
-<h3 align="center">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/PratishShrivastava/" target="blank"><img align="" src="https://github.com/nayan1xyz/nayan1xyz/blob/main/linked-removebg-preview.png" alt="Pratish Shrivastava" height="40" width="40" /></a>
-</p>
+
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.pratishshrivastava.me) 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratish-shrivastava/) 
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PratishShtva) 
+
+
 
 ***
 ## CodeWars
