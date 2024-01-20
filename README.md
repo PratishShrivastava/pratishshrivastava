@@ -8,7 +8,7 @@
 
 - 🌱  Exploring in the world of  **Open Contribution**
 
-- 👨‍💻 All of my projects are available at [https://pratishshrivastava.github.io](https://github.com/PratishShrivastava)
+- 👨‍💻 All of my projects are available at [https://pratishshrivastava.github.io](https://pratishshrivastava.github.io)
 
 - 💻 Visit my website at [[www.pratishshrivastava.me](https://pratishshrivastava.github.io/)](pratishShrivastava)
 
