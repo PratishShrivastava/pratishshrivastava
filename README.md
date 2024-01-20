@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [www.github.com/PratishShrivastava](https://github.com/PratishShrivastava)
 
-- 💻 Visit my website at [www.pratishshrivastava.me](https://pratishshrivastava.me)
+- 💻 Visit my website at [[www.pratishshrivastava.me](https://pratishshrivastava.github.io/)](pratishShrivastava)
 
 
 
